@@ -32,14 +32,6 @@ let string = `/* 你好，我是小杨
   top:0;
   left:50%;
   transform:translateX(-50%);
-}
-#div1::before{
-  width:100px;
-  height:100px;
-  left:0;
-  top:0;
-  left:50%;
-  transform:translateX(-50%);
   background:#000;
   border-radius:50%;
   background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 25%, rgba(0,0,0,1) 25%, rgba(0,0,0,1) 100%);
